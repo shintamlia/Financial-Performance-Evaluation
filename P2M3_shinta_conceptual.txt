@@ -1,0 +1,29 @@
+Jawab pertanyaan berikut dengan menggunakan kalimat Anda sendiri:
+
+Jelaskan apa yang dimaksud dengan NoSQL menggunakan pemahaman yang kalian ketahui !
+- NoSQL (Not Only SQL) adalah jenis database yang menangani data yang tidak terstruktur. NoSQL cenderung lebih fleksibel untuk menangani data yang tidak terstruktur, semi-terstruktur, atau sangat besar yang sulit dikelola dengan model relasional tradisional.
+
+Jelaskan kapan harus menggunakan NoSQL dan Relational Database Management System !
+- NoSQL:
+  1. Digunakan pada data yang tidak terstruktur atau semi-struktur
+  2. Data terus bertambah dan dalam yang skala besar
+  RDBMS:
+  1. Digunakan pada data yang terstuktur 
+  2. Konsistensinya tinggi 
+
+Sebutkan contoh 2 tools/platform NoSQL selain ElasticSearch beserta keunggulan tools/platform tersebut !
+- MongoDB: fleksibel dan mendukung query serta indeks yang kompleks.
+  Cassandra: dirancang untuk data yang sangat besar dan kinerja tinggi.
+
+Jelaskan apa yang Anda ketahui dari Airflow menggunakan pemahaman dan bahasa Anda sendiri !
+- Airflow adalah platform yang digunakan untuk  menjadwalkan dan memantau alur kerja secara efektif.
+
+Jelaskan apa yang Anda ketahui dari Great Expectations menggunakan pemahaman dan bahasa Anda sendiri !
+- Great Expectations dilakukan untuk memvalidasi data secara sistematis dan terukur, sehingga dapat dipastikan bahwa data yang digunakan dalam analisis dan pengambilan keputusan memiliki kualitas yang memenuhin standar.
+
+Jelaskan apa yang Anda ketahui dari Batch Processing menggunakan pemahaman dan bahasa Anda sendiri (Definisi, Contoh Kasus Penggunaan, Tools, dll) !
+- 1. Batch Processing adalah metode pengolahan data di mana data dikumpulkan selama periode waktu tertentu dan kemudian diproses sekaligus dalam satu waktu. 
+  2. Contohnya yaitu untuk perhitungan gaji karyawan pada akhir bulan dan laporan keuangan. 
+  3. Tools yang digunakan Apache Airflow, Apache Spark, dan Hadoop
+  4. Keuntungannya yaitu efesiensi waktu dan biaya, detail dan menyeluruh, dan dapat berjalan otomatis
+  
